@@ -4,5 +4,6 @@ def my_collect(array)
     yield array[i]
     i +=
   end 
+  array 
 end 
 
